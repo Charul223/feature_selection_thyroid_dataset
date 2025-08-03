@@ -62,8 +62,4 @@ Each technique includes visualization such as:
 ## Usage
 You can run the notebook in **Google Colab**. Make sure the dataset `Thyroid_Diff.csv` is uploaded or correctly linked in your Drive.
 
-## Structure
-```bash
-├── thyroid_feature_selection.ipynb
-├── Thyroid_Diff.csv
-└── README.md
+
